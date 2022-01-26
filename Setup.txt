@@ -1,0 +1,46 @@
+Angel Delgadillo Jr - Smugmug Front End Assignment
+-------------------------------------------------------------------------
+
+Thank you so much for this opportunity and please feel free to reach out if there are any questions!
+
+
+In this .zip file you will find a /Src folder, /images folder and a package.json. 
+
+1. Create a React App in a directory of your choice with npm or yarn. See instructions here: https://github.com/facebook/create-react-app
+2. Replace the /src folder  with the ones supplied in this .zip. 
+3. place the /images folder in the /public folder of your app. 
+4. Copy and paste and replace the contents of the Dependencies.txt to the package.json file created by Create-react-app (or add each dependency individually via command line).
+3. run npm install or yarn install. 
+4. run npm start or yarn start. 
+5. Then open http://localhost:3000/ to see the app. 
+
+
+
+-----------------------------------
+How to Use:
+-----------------------------------
+1. Drag and drop or click on the box to add pictures! 
+2. You can rearrange the pictures in the "album" by dragging and replacing in areas. 
+3. when hovering over a picture you can "delete" or "crop" 
+4. when the Crop menu is open adjust the Crop zone to your liking then click Save to see result on album view. 
+
+
+
+-------------------------------
+Future Applications
+-------------------------------
+1. Add more albums! Something where a user can add multiple albums and give attributes to them (Names and sort) 
+2. Single Picture view: add an option to view picture on individual screen or modal. 
+3. Better crop options. 
+4. Smart Organize, via date added, date modified or user choice. 
+
+
+React -> 
+didMOunts... 
+hooks class methods() use effect 
+//is modal -> 
+mutate stae within reducer.. dont
+object spread... og and new) ... operator 
+chrome dev 
+css !important
+** stae management stuff in reducers...
